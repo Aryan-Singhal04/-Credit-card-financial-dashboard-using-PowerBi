@@ -30,7 +30,7 @@ Excel/CSV – Data source storage and preprocessing
 
 Dashboard Insights
 
-The dashboard provides insights into:
+Link:-https://app.powerbi.com/groups/me/reports/fd8d5bd6-5ed3-4327-b02e-6312151a3edc/10b1fe394a0b8a3d4336?experience=power-bi
 
 Sales Trends: Monitor revenue generation over time.
 
